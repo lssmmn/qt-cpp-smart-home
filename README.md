@@ -1,0 +1,1 @@
+# qt-cpp-smart-home
